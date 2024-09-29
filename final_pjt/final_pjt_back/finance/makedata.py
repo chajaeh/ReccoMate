@@ -40,7 +40,7 @@ def random_name():
 DP_URL = 'http://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json'
 SP_URL = 'http://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json'
 
-API_KEY = '49f20c21aab430d8d04a251641005513'
+API_KEY = ''
 
 financial_products = []
 
